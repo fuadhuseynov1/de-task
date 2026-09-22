@@ -1,6 +1,6 @@
 # ASSUMPTIONS
 
-## Setup
+## My Initial Setup
 
 1. Create a folder
 2. Create a virtual environment - python -m venv venv
