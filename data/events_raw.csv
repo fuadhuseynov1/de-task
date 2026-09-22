@@ -1,0 +1,251 @@
+event_id,user_id,app_id,event_name,event_time,ingested_at,country,media_source,campaign,revenue_usd,is_test
+a02813e0-20f9-409e-8802-4419597bcea6,usr_ec2c2920,app_101,session_start,2026-08-28 23:56:08,2026-08-29 00:39:35,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+5d99e246-293f-4027-971c-3522f84babb1,usr_7dafbb4c,app_401,session_start,2026-09-04 14:15:31,2026-09-04 14:35:41,US,Facebook Ads,BM_IOS_US_launch,,false
+521879fd-2c91-48d1-a844-8f4b53457829,usr_7021be3c,app_101,purchase,2026-08-29 17:37:10,2026-08-29 18:43:09,JP,organic,,"0,99",false
+cca674b0-ca2b-4301-86a8-c22b96e31b0c,usr_987a7f7c,app_201,subscription_start,2026-09-01 08:55:31,2026-09-01 09:18:28,PL,Facebook Ads,FP_IOS_US_trial,29.99,true
+9ed4c28b-c911-4b35-9d36-f77d90e7bfa4,usr_063a1417,app_201,session_start,2026-08-31 21:19:47,2026-08-31 21:23:20,BR,organic,,,false
+1edaa205-45fa-49cd-97f8-2e98ae0697ea,usr_f20f8639,app_101,install,2026-09-01 06:09:46,2026-09-01 06:14:38,us,Facebook Ads,PP_AND_US_purchase_broad,,false
+6d3c9beb-6fdc-4347-952a-e588472d3ad9,usr_2ab75771,app_401,tutorial_complete,2026-08-30 18:22:49,2026-08-30 18:23:21,,organic,,,false
+ee1e1604-8af6-460c-a536-cf06c41668fd,usr_cd6e0d25,app_401,subscription_start,2026-08-29 21:25:29,2026-08-30 09:48:05,TR,organic,,19.99,false
+2b560805-ebd6-45ac-827b-231f34dadbd0,usr_81376ee9,app_201,subscription_start,2026-08-27 00:08:24,2026-08-27 00:09:52,US,organic,,6.99,false
+56568ba4-77e7-425f-acb3-6bfff5d17c88,usr_2ab75771,app_401,purchase,2026-08-31 08:50:17,2026-08-31 08:50:30,DE,organic,,,false
+6c2bf8d1-eaca-4a77-bb91-0905dee84e1d,usr_41cd5213,app_401,purchase,2026-09-02 05:59:11,2026-09-02 06:02:50,US,Facebook Ads,BM_IOS_US_launch,9.99,false
+02643b20-2ce4-4afe-9bb4-46a49728585e,usr_b1cafebd,app_102,purchase,2026-09-02 04:20:46,2026-09-07 11:53:56,--,organic,,4.99,false
+afa242e4-0911-4883-93fe-66147f1cc3df,usr_ba8c59a8,app_101,purchase,2026-09-04 03:29:21,2026-09-04 06:32:59,AU,organic,,9.99,false
+c8a42a5d-eba3-42a3-9ed8-66d945fba1bd,usr_3f86062a,app_102,purchase,2026-09-01 13:38:11,2026-09-01 17:25:16,CA,organic,,,false
+348d0878-3ca9-4018-ba79-b6ea16d15896,usr_81376ee9,app_201,purchase,2026-08-26 19:17:37,2026-08-26 19:21:32,US,organic,,"4,99",false
+390ffc3d-2e6e-4f72-adda-e645859681ef,usr_4e87df20,app_401,registration,2026-08-31 11:08:08,2026-08-31 11:09:05,--,organic,,NULL,false
+3b8c05a5-0cec-4a31-ac58-2c17aa135138,usr_c12a534e,app_401,session_start,2026-08-31 15:37:51,2026-08-31 15:40:02,,organic,,,false
+d2f50152-b198-44b8-8b15-417c74b56fbc,usr_c59002f3,app_101,registration,2026-08-30 19:56:46,2026-08-30 20:00:05,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+69b8ab08-7391-47f0-a1f9-e4fa91da4db3,usr_b1cafebd,app_102,tutorial_complete,2026-08-30 13:32:15,2026-08-30 17:27:07,US,organic,,NULL,false
+71cce240-ce0a-4509-81f3-5eba8d0f1ef1,usr_08f8511e,app_201,registration,2026-08-31 05:58:34,2026-08-31 08:20:14,NG,unityads_int,FP_IOS_UNITY_NG_cpi,,false
+89758a9e-f821-4460-9ba6-d28854475789,usr_7021be3c,app_101,install,2026-08-28 14:09:09,2026-08-28 14:20:15,JP,organic,,,false
+0a0603af-6d89-4d69-9223-30f3f912cd0d,usr_f6fe94f7,app_101,tutorial_complete,2026-08-30 15:42:27,2026-08-30 17:29:21,IN,applovin_int,PP_AND_AL_IN_cpi,,false
+19903189-008f-4f1b-bf77-fcf045f87de1,usr_3fbfe452,app_101,session_start,2026-08-30 23:53:44,2026-08-31 00:38:38,--,Facebook Ads,PP_AND_US_purchase_broad,,false
+7334bfed-7088-43e7-8c38-f9818ec94575,usr_fae17389,app_101,install,2026-08-26 21:01:53,2026-08-26 21:02:50,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+bcbb0e66-ca60-4f69-9831-e63bf1837889,usr_2c9a69ca,app_101,purchase,2026-08-28 22:19:13,2026-09-02 20:15:47,US,googleadwords_int,PP_AND_UAC_tier1,"0,99",false
+3e8a4f55-1315-4120-870f-06d085409417,usr_2ab75771,app_401,session_start,2026-09-01 05:17:03,2026-09-01 05:20:30,DE,organic,,,false
+dd90f105-29b7-4b96-b2a0-1cfc71d7d491,usr_4e87df20,app_401,session_start,2026-09-01 16:01:30,2026-09-06 18:27:09,DE,organic,,,false
+52e2d4a6-3c82-48e4-bdd6-503c3d168b87,usr_5c0c5047,app_201,registration,2026-08-30 14:09:13,2026-08-30 14:11:04,US,organic,,,false
+21c5ef9a-378f-4b01-b01a-c8b1b0711cf8,usr_41cd5213,app_401,session_start,2026-09-01 10:15:08,2026-09-01 10:19:18,US,Facebook Ads,BM_IOS_US_launch,,false
+c6ebee7f-2b49-4cb7-a92a-92e84147f46f,usr_c319deb6,app_102,purchase,2026-09-03 09:58:48,2026-09-03 11:10:44,IN,organic,,4.99,false
+8398f683-d10c-4ed1-9bf5-f8fb4b6ea08c,usr_7021be3c,app_101,tutorial_complete,2026-08-28 14:33:55,2026-08-28 18:20:02,JP,organic,,NULL,false
+782bfaab-cd8b-4e76-a61b-38cc703cd6a2,usr_046400f2,app_201,install,2026-09-02 10:03:31,2026-09-02 10:06:36,NG,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+f074ddb7-06e1-4475-abf5-9e0539e7d547,usr_9ff95e01,app_101,registration,2026-08-29 13:15:54,2026-08-29 13:20:50,IN,applovin_int,PP_AND_AL_IN_cpi,,false
+09e71313-d8f6-4945-b66f-06cd9e9100a5,usr_3f86062a,app_102,session_start,2026-09-02 02:33:36,2026-09-08 12:02:48,CA,organic,,NULL,false
+bc3d76a9-3917-4257-8e71-2fb8950a3d21,usr_08f8511e,app_201,install,2026-08-31 05:49:43,2026-08-31 05:50:56,ng,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+baa13b2f-f33d-4b41-b1ea-e2dc75079494,usr_b0d3afb2,app_102,tutorial_complete,2026-08-31 02:02:43,2026-08-31 02:06:46,PH,tiktokglobal_int,PP_IOS_TT_DE_video,NULL,false
+00623e64-4c8e-4367-8c73-d7af7413fc85,usr_f20f8639,app_101,registration,2026-09-01 06:14:50,2026-09-01 08:19:20,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+08c330a6-3b60-45bd-a811-b92f6e942ac3,usr_3f86062a,app_102,install,2026-08-31 09:33:05,2026-08-31 09:34:13,CA,organic,,NULL,false
+a7b277ec-4a33-43d3-a0d4-a1f5c5e9be06,usr_fa31fad2,app_201,purchase,2026-08-30 10:11:42,2026-09-02 10:08:27,--,Facebook Ads,FP_IOS_US_trial,"2,99",false
+7a10a1da-ebad-49f1-a57b-58057f098752,usr_cd6e0d25,app_401,registration,2026-08-29 10:28:18,2026-08-29 10:28:34,TR,organic,,,false
+74c9b276-2354-4c04-a8a1-56d0d4653a61,usr_ec2c2920,app_101,tutorial_complete,2026-08-26 00:36:35,2026-08-26 00:38:18,us,Facebook Ads,PP_AND_US_purchase_broad,,false
+48d68b0a-4acb-4e13-a067-d7d54b7fa910,usr_b1cafebd,app_102,purchase,2026-09-02 15:28:27,2026-09-02 15:29:26,US,organic,,"9,99",false
+c3e81163-2d13-462a-b8e3-228dd9afdf9f,usr_063a1417,app_201,subscription_start,2026-08-31 08:00:14,2026-08-31 21:40:10,BR,organic,,9.99,false
+c3ba7b1c-151f-4df3-a3eb-dad484d55bfc,usr_9c608926,app_101,install,2026-08-28 12:43:30,2026-08-28 14:37:17,CA,organic,,NULL,false
+5082e9c9-43e6-4b0f-b7cd-0863527bc31d,usr_a4e9b2d4,app_501,session_start,2026-08-28 15:21:12,2026-08-28 15:22:56,--,organic,,,true
+c91acc9d-5856-4cd3-9f1b-1be658fe3c7b,usr_b34c3bec,app_401,registration,2026-09-04 00:14:31,2026-09-04 00:18:24,US,organic,,NULL,false
+ed4bd279-1f9d-4d9e-8783-1d85ad7fc16a,usr_7021be3c,app_101,purchase,2026-08-28 15:42:14,2026-08-31 09:55:40,JP,organic,,0.99,false
+f086c583-7b2e-4a7c-b7d8-2b81cfb36af2,usr_5c0c5047,app_201,install,2026-08-30 13:59:15,2026-09-01 02:40:26,us,organic,,,false
+f0b1ffa3-a0ac-4384-b15c-9a08570a19db,usr_8b5e3449,app_102,install,2026-09-01 13:06:53,2026-09-01 13:11:26,MX,organic,,,false
+f4d32534-fd08-4935-8541-f1250fd1ac55,usr_e647bc94,app_201,session_start,2026-08-31 15:58:46,2026-09-01 05:41:11,,organic,,NULL,false
+02643b20-2ce4-4afe-9bb4-46a49728585e,usr_b1cafebd,app_102,purchase,2026-09-02 04:20:46,2026-09-02 04:21:10,--,organic,,5.81,false
+c4622a3d-02af-4bb1-969c-f8877db4a17e,usr_20199239,app_102,registration,2026-09-04 11:50:13,2026-09-04 11:52:40,es,organic,,,false
+48e50e12-fa6d-4549-88db-3691549560b8,usr_a4e9b2d4,app_501,purchase,2026-08-29 15:25:19,2026-08-30 05:24:21,UA,organic,,4.99,true
+6f90877f-c513-4ea1-89db-e3fd556846bd,usr_d702c8df,app_201,install,2026-09-04 15:05:17,2026-09-04 16:27:55,IN,organic,,NULL,false
+1d1c2661-b8de-4eb6-abf8-054e79df8c29,usr_e0e13bc9,app_101,install,2026-08-27 10:12:44,2026-08-27 12:26:35,UA,Facebook Ads,PP_AND_US_purchase_broad,NULL,true
+5f88dc65-d64c-44c5-b737-e43dc5816e2d,usr_a4ab2303,app_201,registration,2026-08-27 18:43:15,2026-08-27 18:46:10,US,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+a5848767-fa5b-4ca2-a851-4aa49945d722,usr_a78a4119,app_501,install,2026-08-31 22:41:30,2026-08-31 22:42:23,PL,organic,,,true
+41da141c-9340-408e-a82b-a9dbc297be50,usr_bb23afa6,app_201,session_start,2026-09-01 00:00:00,2026-09-01 00:00:04,NG,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+eb3193a9-e2d7-4a89-b385-de3b92504e6a,usr_385c353f,app_101,purchase,2026-08-28 07:38:41,2026-08-28 07:39:06,US,organic,,0.99,false
+81c1c2e5-8369-4e08-98c4-618386a69a92,usr_b1cafebd,app_102,registration,2026-08-30 13:12:50,2026-08-30 13:13:11,US,organic,,NULL,false
+94d7343f-3c62-4be3-a819-f0e0347c6667,usr_bb23afa6,app_201,tutorial_complete,2026-08-30 12:37:59,2026-08-30 12:40:11,NG,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+6c2bf8d1-eaca-4a77-bb91-0905dee84e1d,usr_41cd5213,app_401,purchase,2026-09-02 05:59:11,2026-09-02 16:41:21,US,Facebook Ads,BM_IOS_US_launch,"9,99",false
+f8dcfffd-c6c4-4714-8cc2-6fa42dc843d7,usr_2c9a69ca,app_101,install,2026-08-28 19:46:42,2026-08-28 21:31:19,us,googleadwords_int,PP_AND_UAC_tier1,,false
+4a4f7611-e189-473a-be59-4a4a84444f03,usr_9c608926,app_101,purchase,2026-08-28 15:20:51,2026-08-29 22:59:29,CA,organic,,19.99,false
+a8b58833-4792-4300-83f4-420912c59b21,usr_4e87df20,app_401,subscription_start,2026-09-04 20:01:51,2026-09-06 01:51:25,DE,organic,,59.99,false
+a106c9af-1ab2-4549-8b14-585ffe3748ca,usr_cd6e0d25,app_401,purchase,2026-08-31 23:22:44,2026-09-03 05:23:30,tr,organic,,NULL,false
+01c358e0-2e9f-4408-89bb-cb71a095bd5d,usr_d60f097e,app_101,install,2026-08-27 22:38:00,2026-08-27 22:40:43,US,organic,,NULL,false
+b3270b40-c162-4685-96f8-a2b51bd84aec,usr_b1cafebd,app_102,purchase,2026-08-31 00:07:58,2026-08-31 00:12:23,US,organic,,0.81,false
+b5b57bab-937d-4b4d-b273-cba296a94169,usr_e647bc94,app_201,purchase,2026-09-01 00:00:00,2026-09-05 16:57:44,TR,organic,,4.99,false
+93b98204-9caf-48cd-b155-84689c7fb498,usr_9e5e8452,app_101,install,2026-09-01 22:05:13,2026-09-01 22:07:37,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+bd5ef7a7-e6d4-4f8f-8d4c-c5a090ccecd1,usr_c59002f3,app_101,install,2026-08-30 19:54:25,2026-08-30 19:58:44,us,Facebook Ads,PP_AND_US_purchase_broad,,false
+0b2136f0-44d9-42f7-a149-bbf1861627a7,usr_cd6e0d25,app_401,purchase,2026-08-30 19:41:31,2026-08-30 19:43:35,TR,organic,,4.99,false
+7b3463ac-977a-471f-93de-6a465622eb41,usr_7f50b2a8,app_102,session_start,2026-09-03 16:14:32,2026-09-06 04:23:20,de,tiktokglobal_int,PP_IOS_TT_DE_video,,false
+b626cb3a-cf96-4714-a1a9-1aa253601e0c,usr_db64ce27,app_102,registration,2026-09-04 12:08:04,2026-09-04 14:02:54,US,Facebook Ads,PP_IOS_US_value_opt,NULL,false
+d2a2c3b0-fa63-48fa-b0b9-67658f0a577c,usr_7021be3c,app_101,registration,2026-08-28 14:15:32,2026-08-28 14:17:54,JP,organic,,NULL,false
+5f700c4a-6932-4c29-8423-1c97618b8112,usr_b34c3bec,app_401,tutorial_complete,2026-09-04 00:24:11,2026-09-04 00:25:53,US,organic,,NULL,false
+706d376f-df1c-4553-b8cb-9d0b7cb7fb92,usr_5c975c2e,app_201,registration,2026-08-27 18:18:34,2026-08-27 18:19:43,gb,organic,,,false
+e8d93fe0-5e1f-4bd6-9b81-d3c87c0cd8e2,usr_5c975c2e,app_201,session_start,2026-08-28 23:39:08,2026-08-29 00:22:35,GB,organic,,NULL,false
+67f374da-2642-447e-baa9-46bc7c31d2f8,usr_e647bc94,app_201,registration,2026-08-29 20:30:30,2026-08-29 20:31:19,TR,organic,,,false
+f6acf80c-4ffc-468a-a8dc-5fb9f1932015,usr_fa31fad2,app_201,purchase,2026-08-29 20:17:36,2026-08-30 03:45:27,US,Facebook Ads,FP_IOS_US_trial,0.00,false
+45ada3a9-1d68-4104-affe-7379616d9976,usr_f6fe94f7,app_101,registration,2026-08-30 15:24:58,2026-09-01 07:08:02,in,applovin_int,PP_AND_AL_IN_cpi,,false
+e655123e-a8e5-4fa3-92ef-07d86a8507d4,usr_7dafbb4c,app_401,install,2026-09-03 18:48:08,2026-09-03 18:49:43,US,Facebook Ads,BM_IOS_US_launch,NULL,false
+062005e5-0789-4ac3-b5f3-034225bc9045,usr_2ab75771,app_401,purchase,2026-08-31 13:03:07,2026-08-31 13:03:54,,organic,,4.99,false
+a80104a5-61bb-4155-a238-7154eb1189fe,usr_db64ce27,app_102,install,2026-09-04 11:53:48,2026-09-04 11:55:25,US,Facebook Ads,PP_IOS_US_value_opt,,false
+56568ba4-77e7-425f-acb3-6bfff5d17c88,usr_2ab75771,app_401,purchase,2026-08-31 08:50:17,2026-08-31 19:22:30,DE,organic,,5.41,false
+f4d32534-fd08-4935-8541-f1250fd1ac55,usr_e647bc94,app_201,session_start,2026-08-31 15:58:46,2026-09-01 14:25:11,,organic,,NULL,false
+a545e21e-3aa0-4dae-9d09-450ba50d29d4,usr_bb23afa6,app_201,registration,2026-08-30 12:35:39,2026-08-30 12:38:00,NG,unityads_int,FP_IOS_UNITY_NG_cpi,,false
+05426617-c18d-4bc3-9e90-932cf232ae34,usr_5c0c5047,app_201,subscription_start,2026-08-30 20:42:29,2026-08-30 20:42:31,us,organic,,9.99,false
+2152e611-43be-41ad-bf3b-3b79730981e4,usr_8b5e3449,app_102,registration,2026-09-01 13:13:24,2026-09-04 08:19:29,MX,organic,,,false
+05426617-c18d-4bc3-9e90-932cf232ae34,usr_5c0c5047,app_201,subscription_start,2026-08-30 20:42:29,2026-09-01 23:06:59,us,organic,,"9,99",false
+107dfbda-4fda-4d77-988e-9969e1ea02a8,usr_2c9a69ca,app_101,tutorial_complete,2026-08-28 20:03:00,2026-08-28 20:03:59,us,googleadwords_int,PP_AND_UAC_tier1,,false
+033bed1d-ef24-401a-98d5-b7ec298e33d9,usr_8b5e3449,app_102,purchase,2026-09-02 01:24:39,2026-09-05 12:00:57,MX,organic,,NULL,false
+eb3193a9-e2d7-4a89-b385-de3b92504e6a,usr_385c353f,app_101,purchase,2026-08-28 07:38:41,2026-09-01 00:23:28,US,organic,,0.00,false
+a4802a19-2aee-4e6b-bfee-8565222573cf,usr_b0d3afb2,app_102,session_start,2026-09-01 10:19:38,2026-09-02 06:50:39,PH,tiktokglobal_int,PP_IOS_TT_DE_video,,false
+cd8b9beb-1ca2-4719-b55d-10db23e972a3,usr_5c0c5047,app_201,purchase,2026-08-31 12:25:43,2026-09-01 16:07:35,US,organic,,4.99,false
+db7819da-76c6-4e24-9e9f-e76541cc2813,usr_b0d3afb2,app_102,session_start,2026-08-31 18:03:36,2026-08-31 19:26:21,,tiktokglobal_int,PP_IOS_TT_DE_video,NULL,false
+69b8ab08-7391-47f0-a1f9-e4fa91da4db3,usr_b1cafebd,app_102,tutorial_complete,2026-08-30 13:32:15,2026-08-30 17:56:46,US,organic,,NULL,false
+d2a2c3b0-fa63-48fa-b0b9-67658f0a577c,usr_7021be3c,app_101,registration,2026-08-28 14:15:32,2026-08-28 14:16:51,JP,organic,,NULL,false
+786c38f6-d691-4ab3-8773-13846102bffe,usr_d5d352ef,app_201,session_start,2026-08-30 05:01:41,2026-09-02 20:55:15,CA,organic,,NULL,false
+be81558f-2a80-4477-88bd-449f417c0b04,usr_b0d3afb2,app_102,install,2026-08-31 01:46:27,2026-08-31 01:49:53,PH,tiktokglobal_int,PP_IOS_TT_DE_video,,false
+67e18849-a8b3-4144-b18c-43fad17f3d8b,usr_8b5e3449,app_102,session_start,2026-09-01 20:12:51,2026-09-01 20:13:01,,organic,,,false
+156da01d-1856-4312-8993-1a329d73c874,usr_f6fe94f7,app_101,install,2026-08-30 15:14:31,2026-09-01 19:55:42,IN,applovin_int,PP_AND_AL_IN_cpi,NULL,false
+6384d4c1-df1b-403b-ba91-dd8a3001154f,usr_41cd5213,app_401,registration,2026-08-31 20:15:57,2026-08-31 23:36:53,US,Facebook Ads,BM_IOS_US_launch,NULL,false
+a106c9af-1ab2-4549-8b14-585ffe3748ca,usr_cd6e0d25,app_401,purchase,2026-08-31 23:22:44,2026-09-03 07:46:29,tr,organic,,9.99,false
+0530dad0-3452-4c81-9e0b-3799d9fe5a01,usr_796abe47,app_401,install,2026-08-31 09:01:28,2026-08-31 09:03:24,US,Facebook Ads,BM_IOS_US_launch,NULL,false
+31a8a3f3-223f-4ed5-9652-c698a5096136,usr_d5d352ef,app_201,session_start,2026-08-31 15:42:43,2026-09-01 05:32:01,CA,organic,,NULL,false
+1671b022-bcbc-4763-a42c-3ad7b7603d83,usr_1563250a,app_401,subscription_start,2026-08-30 07:22:31,2026-09-01 00:00:55,JP,organic,,0.00,false
+1d63c3dd-3efc-4e2b-84ca-0c8d2b90083e,usr_9ff95e01,app_101,purchase,2026-09-03 06:09:25,2026-09-03 06:09:55,IN,applovin_int,PP_AND_AL_IN_cpi,"1,99",false
+79a358d7-914f-49ab-98b9-8346a3cbc2b6,usr_d5d352ef,app_201,install,2026-08-27 17:37:40,2026-08-27 17:38:45,CA,organic,,NULL,false
+508f3ca0-f3b4-4e07-a0cc-04470966b1b3,usr_e0e13bc9,app_101,purchase,2026-08-28 09:02:17,2026-08-28 09:02:22,UA,Facebook Ads,PP_AND_US_purchase_broad,0.99,true
+7334bfed-7088-43e7-8c38-f9818ec94575,usr_fae17389,app_101,install,2026-08-26 21:01:53,2026-08-27 10:06:57,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+28ddc12b-9aff-4540-aa4b-ad8f8f4cba16,usr_d5d352ef,app_201,session_start,2026-08-27 18:09:46,2026-08-27 18:13:58,CA,organic,,NULL,false
+f6acf80c-4ffc-468a-a8dc-5fb9f1932015,usr_fa31fad2,app_201,purchase,2026-08-29 20:17:36,2026-08-29 20:45:29,US,Facebook Ads,FP_IOS_US_trial,2.99,false
+bcbb0e66-ca60-4f69-9831-e63bf1837889,usr_2c9a69ca,app_101,purchase,2026-08-28 22:19:13,2026-09-02 18:42:34,US,googleadwords_int,PP_AND_UAC_tier1,"1,99",false
+033bed1d-ef24-401a-98d5-b7ec298e33d9,usr_8b5e3449,app_102,purchase,2026-09-02 01:24:39,2026-09-05 12:05:57,MX,organic,,NULL,false
+fba76563-94ac-4f72-b0df-86a72f0591c3,usr_0a5400a5,app_401,session_start,2026-08-30 09:31:09,2026-08-30 09:32:15,UA,organic,,NULL,true
+a03b8122-5885-4977-a8e4-3e91188faf73,usr_ba8c59a8,app_101,install,2026-09-03 23:52:37,2026-09-03 23:53:54,AU,organic,,,false
+4b6f81f1-2e40-48e0-bfa7-9c52e9d45983,usr_ff2065b7,app_201,install,2026-08-28 22:29:24,2026-08-28 22:32:49,US,organic,,,false
+1a287297-bdd2-410e-b1da-99f5a187193f,usr_d5d352ef,app_201,session_start,2026-08-29 14:03:35,2026-08-29 14:06:05,CA,organic,,,false
+0bacc1f9-3473-40cb-86ab-b71279b482c7,usr_8b5e3449,app_102,purchase,2026-09-02 07:20:06,2026-09-03 03:04:59,MX,organic,,0.99,false
+b2f7543c-cb96-4a2c-84ee-30c8065925f7,usr_046400f2,app_201,registration,2026-09-02 10:11:50,2026-09-02 11:57:23,NG,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+164dd19f-3891-4e33-93fe-0b99758ab456,usr_f564c72e,app_102,session_start,2026-08-30 14:20:41,2026-08-30 14:24:08,UA,organic,,NULL,true
+a6e706ca-7e9a-4f24-93b1-324428c87bff,usr_a4ab2303,app_201,install,2026-08-27 18:30:54,2026-08-27 21:53:48,US,unityads_int,FP_IOS_UNITY_NG_cpi,,false
+b06ea427-b628-459d-93ed-affa8151b426,usr_6712256e,app_201,session_start,2026-09-04 11:04:09,2026-09-04 13:00:28,,Facebook Ads,FP_IOS_US_trial,,false
+56568ba4-77e7-425f-acb3-6bfff5d17c88,usr_2ab75771,app_401,purchase,2026-08-31 08:50:17,2026-08-31 19:22:30,DE,organic,,5.41,false
+6384d4c1-df1b-403b-ba91-dd8a3001154f,usr_41cd5213,app_401,registration,2026-08-31 20:15:57,2026-08-31 23:36:53,US,Facebook Ads,BM_IOS_US_launch,NULL,false
+0e21fd0c-72df-44d7-a508-ad4813cf4cee,usr_ec2c2920,app_101,install,2026-08-26 00:13:26,2026-08-26 00:14:44,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+fd32183c-fe17-4bc7-b966-ccc2ebd5c9d3,usr_c319deb6,app_102,install,2026-09-01 21:10:04,2026-09-01 21:10:47,IN,organic,,NULL,false
+a0c169c0-e873-4e37-b849-0318e8c44bc2,usr_2ab75771,app_401,registration,2026-08-30 18:10:26,2026-08-30 18:14:37,DE,organic,,,false
+9f223d54-7010-4633-acda-0e7ca3d076c5,usr_4626ffa7,app_101,install,2026-09-03 16:46:20,2026-09-03 17:54:53,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+bca45992-1e97-47e8-b8a5-9eba7a853970,usr_a4ab2303,app_201,tutorial_complete,2026-08-27 18:45:19,2026-08-27 18:46:31,US,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+25de9917-4d6a-4657-96e8-5f2f4c40f4f8,usr_f564c72e,app_102,purchase,2026-09-01 11:15:20,2026-09-01 15:09:56,UA,organic,,4.99,true
+744e336f-bca9-43b3-a5c0-0ba59e3c0bc8,usr_a4e9b2d4,app_501,install,2026-08-27 15:20:00,2026-08-27 15:51:29,UA,organic,,,true
+4367c393-573d-41de-b7af-debd5fc9bef1,usr_3fbfe452,app_101,install,2026-08-27 22:34:56,2026-08-28 01:58:23,,Facebook Ads,PP_AND_US_purchase_broad,,false
+1671b022-bcbc-4763-a42c-3ad7b7603d83,usr_1563250a,app_401,subscription_start,2026-08-30 07:22:31,2026-08-30 07:26:17,JP,organic,,,false
+29a1c527-ab86-404d-ad40-27d39d3a05bd,usr_063a1417,app_201,install,2026-08-29 12:54:04,2026-08-29 23:18:50,BR,organic,,,false
+a16c393c-686c-4c0d-9cf5-a0dfa0c019fe,usr_2c9a69ca,app_101,session_start,2026-09-03 23:26:41,2026-09-04 00:22:35,US,googleadwords_int,PP_AND_UAC_tier1,,false
+018975dd-be2a-4d9d-9add-0733f2b9642a,usr_d60f097e,app_101,registration,2026-08-27 22:49:04,2026-08-27 22:49:39,US,organic,,,false
+126c9d53-4c1a-4652-b7f1-3913e2d1f19e,usr_4e87df20,app_401,session_start,2026-08-31 15:19:44,2026-08-31 15:24:20,DE,organic,,NULL,false
+7d7e3878-7ade-4b43-a7f9-904b75451b69,usr_81376ee9,app_201,session_start,2026-08-29 23:27:37,2026-08-29 23:30:16,US,organic,,,false
+494f6f57-1e4e-4d43-b459-b1c08412df88,usr_8b5e3449,app_102,session_start,2026-09-02 11:29:12,2026-09-02 11:30:20,MX,organic,,,false
+868d0bb7-b372-4444-9d41-f9bae8535ebb,usr_0a5400a5,app_401,session_start,2026-08-27 12:05:00,2026-08-27 12:09:08,UA,organic,,NULL,true
+a7b277ec-4a33-43d3-a0d4-a1f5c5e9be06,usr_fa31fad2,app_201,purchase,2026-08-30 10:11:42,2026-08-30 11:34:55,--,Facebook Ads,FP_IOS_US_trial,"2,65",false
+bb8d8600-7183-435d-bc2f-7184b6ae8cfe,usr_7dafbb4c,app_401,registration,2026-09-03 19:01:52,2026-09-03 21:45:51,US,Facebook Ads,BM_IOS_US_launch,,false
+69a00cdf-1e11-42c5-a951-bc9796bf3646,usr_c59002f3,app_101,session_start,2026-09-01 20:53:13,2026-09-02 12:04:31,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+893ed296-80ac-47d1-be67-302c902d09e7,usr_4626ffa7,app_101,session_start,2026-09-04 02:33:25,2026-09-04 02:38:13,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+f7404ec1-5bd5-41d1-bf46-9404a39c5d58,usr_f564c72e,app_102,purchase,2026-08-30 14:22:58,2026-08-30 14:27:21,UA,organic,,99.99,true
+4d5d3365-7f29-4de5-948d-6bfc81071cae,usr_5c975c2e,app_201,session_start,2026-08-30 23:39:37,2026-08-31 00:23:52,--,organic,,,false
+5eadb375-31c3-4038-bf8d-68fb6d9011f2,usr_e0e13bc9,app_101,session_start,2026-08-27 10:15:02,2026-08-27 10:17:22,UA,Facebook Ads,PP_AND_US_purchase_broad,,true
+24cf4b00-e29d-49c6-9794-063e1deba994,usr_ec2c2920,app_101,purchase,2026-08-26 02:26:07,2026-08-26 02:42:08,us,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+9e93953c-31df-4437-815f-b37850c17835,usr_8b5e3449,app_102,session_start,2026-09-02 03:47:02,2026-09-02 10:47:06,MX,organic,,NULL,false
+10ea0da4-f7e4-42ea-b38a-06af809d815d,usr_796abe47,app_401,registration,2026-08-31 09:08:37,2026-08-31 09:13:27,US,Facebook Ads,BM_IOS_US_launch,NULL,false
+80ea5766-aaf6-494d-94b7-2095e00c0e4b,usr_8b5e3449,app_102,session_start,2026-09-02 07:19:42,2026-09-02 07:23:34,MX,organic,,,false
+062005e5-0789-4ac3-b5f3-034225bc9045,usr_2ab75771,app_401,purchase,2026-08-31 13:03:07,2026-09-02 07:35:00,,organic,,4.99,false
+a4802a19-2aee-4e6b-bfee-8565222573cf,usr_b0d3afb2,app_102,session_start,2026-09-01 10:19:38,2026-09-01 10:19:47,PH,tiktokglobal_int,PP_IOS_TT_DE_video,,false
+d25dc3a1-6bba-4018-8838-a777a94d900d,usr_6712256e,app_201,install,2026-09-03 15:56:59,2026-09-03 15:57:59,US,Facebook Ads,FP_IOS_US_trial,NULL,false
+21b71716-1fbe-409f-ad23-66d0ef2227d0,usr_b1cafebd,app_102,session_start,2026-09-01 03:46:48,2026-09-01 03:50:40,US,organic,,,false
+09e71313-d8f6-4945-b66f-06cd9e9100a5,usr_3f86062a,app_102,session_start,2026-09-02 02:33:36,2026-09-08 12:02:48,CA,organic,,NULL,false
+1a5b2e96-188f-4c73-961f-092b1c4b3fa2,usr_bd5ddbff,app_101,install,2026-08-27 20:22:17,2026-08-27 20:23:40,US,googleadwords_int,PP_AND_UAC_tier1,NULL,false
+c3e81163-2d13-462a-b8e3-228dd9afdf9f,usr_063a1417,app_201,subscription_start,2026-08-31 08:00:14,2026-08-31 21:40:10,BR,organic,,9.99,false
+0d70134c-b29e-4f2a-9b34-75bfa0b28d9e,usr_7f50b2a8,app_102,registration,2026-09-03 15:34:29,2026-09-03 15:36:53,DE,tiktokglobal_int,PP_IOS_TT_DE_video,NULL,false
+59f13637-357f-4787-a67d-133397ecae5b,usr_4e87df20,app_401,install,2026-08-31 11:06:41,2026-08-31 12:31:58,DE,organic,,NULL,false
+b3b70fde-3ee7-448c-8a08-c1d2a0f9bcc8,usr_3fbfe452,app_101,purchase,2026-08-28 07:48:08,2026-08-28 07:50:10,US,Facebook Ads,PP_AND_US_purchase_broad,1.99,false
+b81dca84-1064-4d3c-b4ad-adc91c6c2193,usr_9e5e8452,app_101,registration,2026-09-01 22:19:57,2026-09-01 22:22:21,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+00d7ded6-6545-4f8b-b85e-78012c130713,usr_41cd5213,app_401,install,2026-08-31 20:14:35,2026-09-03 03:54:44,US,Facebook Ads,BM_IOS_US_launch,,false
+d8c5defa-4d40-465d-a0b8-ae75fcef4961,usr_fae17389,app_101,tutorial_complete,2026-08-26 21:19:33,2026-08-26 21:23:00,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+bfabcd8f-c9c1-4071-86c4-53d9fd89d6a5,usr_c59002f3,app_101,purchase,2026-08-31 23:59:59,2026-09-01 03:01:52,us,Facebook Ads,PP_AND_US_purchase_broad,"9,99",false
+a8b58833-4792-4300-83f4-420912c59b21,usr_4e87df20,app_401,subscription_start,2026-09-04 20:01:51,2026-09-05 10:23:43,DE,organic,,59.99,false
+13f305c0-c272-4802-b2a2-c71f21b776e4,usr_bd5ddbff,app_101,session_start,2026-08-30 23:28:24,2026-08-31 00:22:06,--,googleadwords_int,PP_AND_UAC_tier1,NULL,false
+8574e7bc-dfaa-474d-9ffb-44707d1c0bf5,usr_fa31fad2,app_201,install,2026-08-29 19:03:54,2026-08-29 22:01:02,US,Facebook Ads,FP_IOS_US_trial,NULL,false
+cedcf88f-712d-4f9a-a0f4-83cbe51c573c,usr_e647bc94,app_201,install,2026-08-29 20:22:48,2026-08-29 21:36:17,TR,organic,,,false
+156da01d-1856-4312-8993-1a329d73c874,usr_f6fe94f7,app_101,install,2026-08-30 15:14:31,2026-09-01 19:55:42,IN,applovin_int,PP_AND_AL_IN_cpi,NULL,false
+bca45992-1e97-47e8-b8a5-9eba7a853970,usr_a4ab2303,app_201,tutorial_complete,2026-08-27 18:45:19,2026-08-27 18:46:31,US,unityads_int,FP_IOS_UNITY_NG_cpi,NULL,false
+642c2ca7-10bf-47c4-8e66-cc57451c063d,usr_20199239,app_102,install,2026-09-04 11:38:56,2026-09-04 13:40:20,ES,organic,,,false
+3e8a4f55-1315-4120-870f-06d085409417,usr_2ab75771,app_401,session_start,2026-09-01 05:17:03,2026-09-01 05:31:19,DE,organic,,,false
+db7819da-76c6-4e24-9e9f-e76541cc2813,usr_b0d3afb2,app_102,session_start,2026-08-31 18:03:36,2026-08-31 19:26:21,,tiktokglobal_int,PP_IOS_TT_DE_video,NULL,false
+1b1b0c92-3187-4d34-991d-e45db63ea2db,usr_987a7f7c,app_201,purchase,2026-09-02 16:30:00,2026-09-02 16:31:30,PL,Facebook Ads,FP_IOS_US_trial,9.99,true
+6672b0cc-46f5-4797-a953-d97db77416f5,usr_ff2065b7,app_201,registration,2026-08-28 22:32:52,2026-08-29 02:13:01,US,organic,,,false
+405602b0-c8c6-4cd6-8d61-74576b6b7732,usr_4626ffa7,app_101,session_start,2026-09-04 22:55:33,2026-09-04 22:57:24,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+c8a42a5d-eba3-42a3-9ed8-66d945fba1bd,usr_3f86062a,app_102,purchase,2026-09-01 13:38:11,2026-09-01 17:38:43,CA,organic,,1.99,false
+8b958e46-ccf4-4536-b73b-f69c96fe17cb,usr_5c975c2e,app_201,session_start,2026-08-28 00:56:57,2026-08-28 01:01:25,GB,organic,,,false
+c10535f7-fd34-4b6e-aa76-bb1c3821ed68,usr_0a5400a5,app_401,purchase,2026-08-28 12:10:44,2026-08-28 14:29:56,UA,organic,,99.99,true
+c1f2a9b6-0be6-486d-a4bd-f04cedbe151f,usr_f564c72e,app_102,install,2026-08-30 14:03:09,2026-08-30 14:06:05,UA,organic,,,true
+b18bd5c7-872b-4f0e-950a-2cacb1d80369,usr_3f86062a,app_102,registration,2026-08-31 09:38:01,2026-08-31 09:40:56,CA,organic,,NULL,false
+905068b5-1cd9-40c3-a529-a70d382ed53b,usr_e0e13bc9,app_101,purchase,2026-08-27 10:41:10,2026-09-02 06:12:48,UA,Facebook Ads,PP_AND_US_purchase_broad,49.99,true
+a4802a19-2aee-4e6b-bfee-8565222573cf,usr_b0d3afb2,app_102,session_start,2026-09-01 10:19:38,2026-09-02 22:09:53,PH,tiktokglobal_int,PP_IOS_TT_DE_video,,false
+ed4bd279-1f9d-4d9e-8783-1d85ad7fc16a,usr_7021be3c,app_101,purchase,2026-08-28 15:42:14,2026-09-02 06:52:49,JP,organic,,1.99,false
+232639fc-9808-4b47-ad4b-5fadd61b263e,usr_3fbfe452,app_101,purchase,2026-08-28 14:35:09,2026-08-29 00:15:26,US,Facebook Ads,PP_AND_US_purchase_broad,9.99,false
+b3270b40-c162-4685-96f8-a2b51bd84aec,usr_b1cafebd,app_102,purchase,2026-08-31 00:07:58,2026-08-31 16:01:51,US,organic,,0.99,false
+f4d32534-fd08-4935-8541-f1250fd1ac55,usr_e647bc94,app_201,session_start,2026-08-31 15:58:46,2026-09-01 05:12:02,,organic,,NULL,false
+5813987b-92c1-4c2d-af72-c85372789150,usr_4626ffa7,app_101,tutorial_complete,2026-09-03 17:11:53,2026-09-03 17:12:03,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+32323553-1b9a-4eb2-9df0-c17f4b297f50,usr_ac5b47cb,app_101,install,2026-09-04 20:49:22,2026-09-04 20:52:51,--,Facebook Ads,PP_AND_US_purchase_broad,,false
+08502556-0454-4fee-b4bf-99735e3dd4b7,usr_c319deb6,app_102,registration,2026-09-01 21:15:16,2026-09-01 21:36:39,IN,organic,,,false
+5c17449c-da5e-41d4-9b53-02069ef6a771,usr_a78a4119,app_501,session_start,2026-09-01 09:10:15,2026-09-01 09:13:35,PL,organic,,,true
+663fc056-d441-44cc-aa7a-16a93cf929de,usr_bb23afa6,app_201,install,2026-08-30 12:29:23,2026-08-30 17:06:55,NG,unityads_int,FP_IOS_UNITY_NG_cpi,,false
+10b89bd5-e622-49a9-bf69-aa271e9c34d0,usr_c319deb6,app_102,session_start,2026-09-02 08:33:11,2026-09-02 09:48:35,IN,organic,,NULL,false
+7e29bbf9-e7f7-46e9-904b-09d7e5bf710f,usr_c12a534e,app_401,install,2026-08-30 13:39:01,2026-09-01 12:13:40,US,organic,,,false
+bf24c0c3-babf-4777-8e23-9e6ed9d7ed52,usr_20199239,app_102,tutorial_complete,2026-09-04 12:00:08,2026-09-04 12:00:55,ES,organic,,NULL,false
+7dbfa7e6-ea44-41d6-a388-e64932597331,usr_4626ffa7,app_101,registration,2026-09-03 16:52:45,2026-09-03 16:54:42,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+5f2724c5-99fc-4c5e-b89f-f9650961af3d,usr_7021be3c,app_101,session_start,2026-08-31 23:59:59,2026-09-01 02:43:53,JP,organic,,NULL,false
+9d75f47a-978d-4a7a-9b1f-b3251e6e2576,usr_5c975c2e,app_201,install,2026-08-27 18:07:05,2026-08-27 18:08:35,GB,organic,,,false
+0383200a-2589-443b-acdf-ef0edc267e93,usr_5c0c5047,app_201,purchase,2026-08-31 13:42:42,2026-08-31 16:54:50,US,organic,,,false
+fdc8b680-f2a1-453a-bd0d-6ae14f7933db,usr_2ab75771,app_401,session_start,2026-08-31 11:33:23,2026-08-31 14:13:28,DE,organic,,,false
+32dcdfb8-95a3-43da-9784-c3840248e24b,usr_81376ee9,app_201,purchase,2026-08-28 11:35:07,2026-08-28 11:37:44,US,organic,,"2,99",false
+ed4bd279-1f9d-4d9e-8783-1d85ad7fc16a,usr_7021be3c,app_101,purchase,2026-08-28 15:42:14,2026-08-28 17:39:45,JP,organic,,1.71,false
+56568ba4-77e7-425f-acb3-6bfff5d17c88,usr_2ab75771,app_401,purchase,2026-08-31 08:50:17,2026-08-31 19:41:49,DE,organic,,4.99,false
+56fb37a8-dd81-4cbe-8179-c1a2a331873f,usr_d702c8df,app_201,registration,2026-09-04 15:15:47,2026-09-04 15:20:18,IN,organic,,NULL,false
+ae91b268-b74f-421f-8017-052b9500e0ec,usr_7dafbb4c,app_401,tutorial_complete,2026-09-03 19:15:02,2026-09-03 19:18:40,US,Facebook Ads,BM_IOS_US_launch,NULL,false
+7c979346-43bc-4a3d-8429-35d0e3c2730c,usr_ac5b47cb,app_101,registration,2026-09-04 20:55:13,2026-09-04 20:57:15,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+11916c3f-40cc-4d8c-bba1-9a637cecb016,usr_c12a534e,app_401,registration,2026-08-30 13:42:55,2026-08-30 13:43:10,US,organic,,,false
+3dca75e7-ab5e-46a4-8fd8-b8733aeedb98,usr_cd6e0d25,app_401,install,2026-08-29 10:26:49,2026-08-29 10:29:56,TR,organic,,,false
+e39f836a-7545-499f-ac14-b4bf1b368e87,usr_08f8511e,app_201,subscription_start,2026-08-31 12:46:28,2026-08-31 20:16:26,NG,unityads_int,FP_IOS_UNITY_NG_cpi,0.00,false
+01b11584-7caa-4bea-9d4e-9d6ff503eb65,usr_81376ee9,app_201,install,2026-08-26 19:03:31,2026-09-01 08:58:23,US,organic,,,false
+27c9afcc-617f-447c-b72d-11a77f7f6963,usr_bfac162d,app_101,install,2026-09-02 16:53:13,2026-09-02 18:57:22,,Facebook Ads,PP_AND_US_purchase_broad,,false
+232639fc-9808-4b47-ad4b-5fadd61b263e,usr_3fbfe452,app_101,purchase,2026-08-28 14:35:09,2026-08-29 00:15:26,US,Facebook Ads,PP_AND_US_purchase_broad,9.99,false
+506057d2-01a2-450d-98a2-840dcfa1dc62,usr_2ab75771,app_401,install,2026-08-30 18:02:57,2026-08-30 21:10:18,,organic,,,false
+e3e03130-ad05-4eaa-afdd-d5d66fa1015d,usr_0a5400a5,app_401,install,2026-08-26 12:00:05,2026-08-26 12:03:14,UA,organic,,NULL,true
+2c628c22-2e5d-41f7-8724-2d565b783fb6,usr_8b5e3449,app_102,tutorial_complete,2026-09-01 13:31:01,2026-09-01 13:31:26,MX,organic,,NULL,false
+9ad85796-b5c2-4318-822f-4872676968cd,usr_b0d3afb2,app_102,registration,2026-08-31 01:53:48,2026-09-01 22:11:03,--,tiktokglobal_int,PP_IOS_TT_DE_video,,false
+6e6fddc0-5e28-458f-acdd-2806af2bde29,usr_e647bc94,app_201,purchase,2026-09-01 05:48:52,2026-09-01 18:08:47,TR,organic,,2.99,false
+9f0bcb4a-81f0-4a0d-bf3a-b337a43ddd6c,usr_2ab75771,app_401,session_start,2026-08-31 02:44:56,2026-08-31 02:46:41,DE,organic,,,false
+69e67e43-4ab4-4779-a064-c958ee5eecd1,usr_9c608926,app_101,purchase,2026-08-31 10:14:20,2026-08-31 10:19:00,CA,organic,,1.99,false
+eca98a76-b9f6-451d-937e-e11be5f98e38,usr_385c353f,app_101,install,2026-08-27 14:13:12,2026-08-27 14:16:18,US,organic,,,false
+e0bada98-7f16-4e47-a255-45b3fca16474,usr_a78a4119,app_501,purchase,2026-09-01 09:12:00,2026-09-01 09:13:22,PL,organic,,0.99,true
+6817fb2d-81a1-41ae-b546-0275e576be4b,usr_9ff95e01,app_101,install,2026-08-29 13:09:10,2026-08-29 13:10:34,IN,applovin_int,PP_AND_AL_IN_cpi,NULL,false
+24cf4b00-e29d-49c6-9794-063e1deba994,usr_ec2c2920,app_101,purchase,2026-08-26 02:26:07,2026-08-26 02:29:21,us,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+02643b20-2ce4-4afe-9bb4-46a49728585e,usr_b1cafebd,app_102,purchase,2026-09-02 04:20:46,2026-09-05 10:06:14,--,organic,,5.96,false
+87b26240-9197-4386-9ed5-fa09e7fb264b,usr_fae17389,app_101,registration,2026-08-26 21:04:14,2026-08-26 21:14:08,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+6a612f6a-098b-4518-80ba-475b6309a67c,usr_ec2c2920,app_101,session_start,2026-08-31 23:13:43,2026-08-31 23:16:15,US,Facebook Ads,PP_AND_US_purchase_broad,NULL,false
+f7404ec1-5bd5-41d1-bf46-9404a39c5d58,usr_f564c72e,app_102,purchase,2026-08-30 14:22:58,2026-08-30 14:27:21,UA,organic,,99.99,true
+43abc360-4f3b-427a-891e-b3e1e3b3adec,usr_b1cafebd,app_102,install,2026-08-30 12:59:00,2026-08-30 13:03:30,us,organic,,NULL,false
+14a2ac19-bdca-4474-9ec2-d30025b93547,usr_20199239,app_102,purchase,2026-09-04 21:08:49,2026-09-04 21:11:29,ES,organic,,0.99,false
+51315e20-5a6f-4da8-a485-78b88594c60f,usr_81376ee9,app_201,session_start,2026-08-28 06:49:23,2026-08-28 06:52:27,--,organic,,NULL,false
+348b0dcd-9c99-4769-b25f-c1c8508b65d6,usr_bfac162d,app_101,registration,2026-09-02 17:07:52,2026-09-04 03:22:27,US,Facebook Ads,PP_AND_US_purchase_broad,,false
+e6f214ca-9f28-4a1b-a4d6-b08bee374ca0,usr_987a7f7c,app_201,install,2026-09-01 08:44:50,2026-09-01 08:48:00,PL,Facebook Ads,FP_IOS_US_trial,,true
+ee1e1604-8af6-460c-a536-cf06c41668fd,usr_cd6e0d25,app_401,subscription_start,2026-08-29 21:25:29,2026-08-30 15:54:04,TR,organic,,6.99,false
+42bbae22-c40e-45a3-b957-43f555ae2c79,usr_2c9a69ca,app_101,registration,2026-08-28 19:49:46,2026-08-28 21:16:34,US,googleadwords_int,PP_AND_UAC_tier1,,false
+7cb1dd54-0a6a-45c1-95c7-9508a2e6aa9a,usr_9c608926,app_101,registration,2026-08-28 12:57:44,2026-08-28 13:09:19,CA,organic,,NULL,false
+836e8205-ecac-4af7-9934-b6356384c1fb,usr_ec2c2920,app_101,registration,2026-08-26 00:21:51,2026-08-26 00:21:52,us,Facebook Ads,PP_AND_US_purchase_broad,,false
+6fadd05b-5d22-405d-b756-ed5242536ba2,usr_cd6e0d25,app_401,tutorial_complete,2026-08-29 10:44:26,2026-08-29 10:48:25,TR,organic,,NULL,false
+b5b57bab-937d-4b4d-b273-cba296a94169,usr_e647bc94,app_201,purchase,2026-09-01 00:00:00,2026-09-01 20:58:18,TR,organic,,,false
+033bed1d-ef24-401a-98d5-b7ec298e33d9,usr_8b5e3449,app_102,purchase,2026-09-02 01:24:39,2026-09-06 10:49:52,MX,organic,,4.99,false
+ce5ea231-47f5-40fb-b182-7d6c3a913f1a,usr_ff2065b7,app_201,subscription_start,2026-08-29 20:30:10,2026-08-29 23:07:14,US,organic,,0.00,false
+53740765-5136-4fe0-b8ab-9a8edfa46551,usr_1563250a,app_401,install,2026-08-29 12:12:27,2026-08-29 13:09:59,JP,organic,,,false
+06bd99a8-f5ff-4bf5-a8a1-61d825b6d6b6,usr_41cd5213,app_401,session_start,2026-09-02 12:41:48,2026-09-02 14:20:43,US,Facebook Ads,BM_IOS_US_launch,,false
+69e67e43-4ab4-4779-a064-c958ee5eecd1,usr_9c608926,app_101,purchase,2026-08-31 10:14:20,2026-08-31 10:19:00,CA,organic,,1.99,false
+4e8249d7-e89b-4c8f-9f04-ba23a7da7843,usr_b34c3bec,app_401,install,2026-09-04 00:13:26,2026-09-04 00:17:45,US,organic,,,false
+1aeff6a5-7b58-4d6a-b2df-efd1cd49e713,usr_7f50b2a8,app_102,install,2026-09-03 15:20:43,2026-09-03 15:20:51,DE,tiktokglobal_int,PP_IOS_TT_DE_video,,false
+0bc5d801-6eb7-43ee-b68b-189efccdbd03,usr_c12a534e,app_401,tutorial_complete,2026-08-30 13:54:51,2026-08-30 13:56:26,US,organic,,NULL,false
+837da263-282a-4170-8157-d13c6ab2dd85,usr_987a7f7c,app_201,session_start,2026-09-03 07:10:44,2026-09-03 07:22:11,PL,Facebook Ads,FP_IOS_US_trial,NULL,true
